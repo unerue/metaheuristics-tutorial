@@ -9,26 +9,37 @@
 
 ## Curriculum
 
-#### 1. Single Solution
+#### 1. Problem
 
-- 1-1. [SA(Simulated Annealing)]() - **Continuous, Discrete**
+- 1.1. [TSP(Travelling Salesman Problem)]() - **Discrete**
   - Paper -  []()
+  - Jupyter - []()
   - Colab - []()
 
-- 1-2. [TS(Tabu Search)]() - **Discrete**
+- 1.2. [Knapsack Problem]() - **Discrete**
   - Paper -  []()
-  - Colab - []()
+  - Jupyter - []()
 
-#### 2. Population
+#### 2. Single Solution
 
-- 2-1. [GA(Genetic Algorithm)]() - **Continuous, Discrete**
+- 2.1. [SA(Simulated Annealing)]() - **Continuous, Discrete**
   - Paper -  []()
-  - Colab - []()
+  - Jupyter - []()
 
-- 2-2. [PSO(Particle Swarm Optimization)]() - **Continuous**
+- 2.2. [TS(Tabu Search)]() - **Discrete**
   - Paper -  []()
-  - Colab - []()
+  - Jupyter - []()
 
-- 2-3. [ACO(Ant Colony Optimization)]() - **Discrete**
+#### 3. Population
+
+- 3.1. [GA(Genetic Algorithm)]() - **Continuous, Discrete**
   - Paper -  []()
-  - Colab - []()
+  - Jupyter - []()
+
+- 3.2. [PSO(Particle Swarm Optimization)]() - **Continuous**
+  - Paper -  []()
+  - Jupyter - []()
+
+- 3.3. [ACO(Ant Colony Optimization)]() - **Discrete**
+  - Paper -  []()
+  - Jupyter - []()
