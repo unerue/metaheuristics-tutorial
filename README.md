@@ -7,6 +7,16 @@
 
 `metaheuristics-tutorial` is a tutorial for who is studying metaheuristics, combinatorial optimization, operations research using **Python**.
 
+#### Dependencies
+
+metaheuristics-tutorial requires:
+
+* Python (>= 3.6)
+* NumPy (>= 1.11.0)
+* SciPy (>= 0.17.0)
+
+`metaheuristics-tutoral` does not support **Python 2.7**.
+
 ## Curriculum
 
 #### 1. Problem
@@ -43,3 +53,5 @@
 - 3.3. [ACO(Ant Colony Optimization)]() - **Discrete**
   - Paper -  []()
   - Jupyter - []()
+
+#### Changelog
