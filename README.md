@@ -17,7 +17,7 @@ metaheuristics-tutorial requires:
 
 `metaheuristics-tutoral` does not support **Python 2.7**.
 
-## Curriculum
+## Combinatorial Optimization using Metaheuristics
 
 #### 1. Problem
 
