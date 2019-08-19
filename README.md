@@ -1,8 +1,10 @@
-## metaheuristics-tutorial
+<img alt="Python37" src="https://img.shields.io/badge/Python-3.7-blue.svg" /> <img alt="Version" src="https://img.shields.io/badge/version-0.1b-yellow.svg" /> <img alt="Kyungsu" src="https://img.shields.io/badge/Created%20by-Kyungsu-orange.svg" />
+
+# metaheuristics-tutorial
 
 <p align="center">
   <img height="70" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/NumPy_logo.svg/2880px-NumPy_logo.svg.png" />
-  <img height="70" src="https://deap.readthedocs.io/en/master/_images/deap_long.png" />
+  <img height="70" src="https://repository-images.githubusercontent.com/20035587/2559bd00-9a75-11e9-9686-0697d18522cf" />
 </p>
 
 `metaheuristics-tutorial` is a tutorial for who is studying metaheuristics, combinatorial optimization, operations research using **Python**.
@@ -19,39 +21,47 @@ metaheuristics-tutorial requires:
 
 ## Combinatorial Optimization using Metaheuristics
 
-#### 1. Problem
+### 1. Problem
 
-- 1.1. [TSP(Travelling Salesman Problem)]() - **Discrete**
+- [TSP (Travelling Salesman Problem)]()
+  - Wikipedia - []()
+  - Paper - []()
+  - Notebook - []()
+  - Source - []()
+
+- [Knapsack Problem]()
+  - Wikipedia - []()
   - Paper -  []()
-  - Jupyter - []()
-  - Colab - []()
+  - Notebook - []()
+  - Source - []()
 
-- 1.2. [Knapsack Problem]() - **Discrete**
-  - Paper -  []()
-  - Jupyter - []()
+### 2. Single Solution
 
-#### 2. Single Solution
+- [SA (Simulated Annealing)](): **Continuous, Discrete**
+  - Paper - []()
+  - Notebook - []()
+  - Source - []()
 
-- 2.1. [SA(Simulated Annealing)]() - **Continuous, Discrete**
-  - Paper -  []()
-  - Jupyter - []()
+- [TS (Tabu Search)](): **Discrete**
+  - Paper - []()
+  - Notebook - []()
+  - Source - []()
 
-- 2.2. [TS(Tabu Search)]() - **Discrete**
-  - Paper -  []()
-  - Jupyter - []()
+### 3. Population
 
-#### 3. Population
+- [GA (Genetic Algorithm)](): **Continuous, Discrete**
+  - Paper - []()
+  - Notebook - []()
+  - Source - []()
 
-- 3.1. [GA(Genetic Algorithm)]() - **Continuous, Discrete**
-  - Paper -  []()
-  - Jupyter - []()
+- [PSO (Particle Swarm Optimization)](): **Continuous**
+  - Paper - []()
+  - Notebook - []()
+  - Source - []()
 
-- 3.2. [PSO(Particle Swarm Optimization)]() - **Continuous**
-  - Paper -  []()
-  - Jupyter - []()
-
-- 3.3. [ACO(Ant Colony Optimization)]() - **Discrete**
-  - Paper -  []()
-  - Jupyter - []()
+- [ACO (Ant Colony Optimization)](): **Discrete**
+  - Paper - []()
+  - Notebook - []()
+  - Source - []()
 
 #### Changelog
