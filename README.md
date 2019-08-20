@@ -1,10 +1,10 @@
-<img alt="Python37" src="https://img.shields.io/badge/Python-3.7-blue.svg" /> <img alt="Version" src="https://img.shields.io/badge/version-0.1b-yellow.svg" /> <img alt="Kyungsu" src="https://img.shields.io/badge/Created%20by-Kyungsu-orange.svg" />
+<img alt="Python37" src="https://img.shields.io/badge/Python-3.7-blue.svg" /> <img alt="Version" src="https://img.shields.io/badge/Version-0.1b-yellow.svg" /> <img alt="Kyungsu" src="https://img.shields.io/badge/Created%20by-Kyungsu-orange.svg?style=flat&colorA=E1523D&colorB=blue" />
 
 # metaheuristics-tutorial
 
 <p align="center">
-  <img height="70" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/NumPy_logo.svg/2880px-NumPy_logo.svg.png" />
   <img height="70" src="https://repository-images.githubusercontent.com/20035587/2559bd00-9a75-11e9-9686-0697d18522cf" />
+  <img height="70" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/NumPy_logo.svg/2880px-NumPy_logo.svg.png" />
 </p>
 
 `metaheuristics-tutorial` is a tutorial for who is studying metaheuristics, combinatorial optimization, operations research using **Python**.
