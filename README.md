@@ -21,7 +21,7 @@ metaheuristics-tutorial requires:
 
 ## Combinatorial Optimization using Metaheuristics
 
-### 1. Problem
+### Problem
 
 - [TSP (Travelling Salesman Problem)]()
   - Wikipedia - []()
@@ -35,32 +35,41 @@ metaheuristics-tutorial requires:
   - Notebook - []()
   - Source - []()
 
-### 2. Single Solution
+### DEAP (Distributed Evolutionary Algorithms in Python)
+
+- [DEAP]()
+  - **Genetic Algorithm (GA)** - []()
+  - **Genetic Programming (GA)** - []()
+  - **Particle Swarm Optimization (PSO)** - []()
+
+---
+
+### Single Solution
 
 - [SA (Simulated Annealing)](): **Continuous, Discrete**
-  - Paper - []()
   - Notebook - []()
   - Source - []()
+  - Paper - []()
 
 - [TS (Tabu Search)](): **Discrete**
-  - Paper - []()
   - Notebook - []()
   - Source - []()
 
-### 3. Population
+---
+
+### Population
 
 - [GA (Genetic Algorithm)](): **Continuous, Discrete**
-  - Paper - []()
   - Notebook - []()
   - Source - []()
+  - DEAP - []()
 
 - [PSO (Particle Swarm Optimization)](): **Continuous**
-  - Paper - []()
   - Notebook - []()
   - Source - []()
+  - DEAP - []()
 
 - [ACO (Ant Colony Optimization)](): **Discrete**
-  - Paper - []()
   - Notebook - []()
   - Source - []()
 
