@@ -2,6 +2,8 @@
 
 # metaheuristics-tutorial
 
+## Please do not refer to this code until Oct. 2019.
+
 <p align="center">
   <img height="70" src="https://repository-images.githubusercontent.com/20035587/2559bd00-9a75-11e9-9686-0697d18522cf" />
   <img height="70" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/NumPy_logo.svg/2880px-NumPy_logo.svg.png" />
