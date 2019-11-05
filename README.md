@@ -36,6 +36,8 @@ metaheuristics-tutorial requires:
 
 ## Simulated Annealing (SA)
 
+<img src="simulated_annealing.gif" height="350px">
+
 1. **Materials**
     * Paper - []()
 2. **Continuous** - []()
@@ -44,6 +46,8 @@ metaheuristics-tutorial requires:
 ---
 
 ## Tabu Search (TS)
+
+<img src="tabu_search.gif" height="350px">
 
 1. **Materials**
     * Paper - []()
