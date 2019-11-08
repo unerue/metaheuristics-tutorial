@@ -1,15 +1,12 @@
 import os
 import sys
-
-# Add the parent directory for importing custom library
-sys.path.insert(0, os.path.abspath(os.path.join(os.getcwd(), os.pardir)))
-
 import numpy as np
 import matplotlib.pyplot as plt
 from metaheuristics.problems import TravelingSalesman
 from metaheuristics.neighbors import TabuSearch
 
-import sys
+# Add the parent directory for importing custom library
+sys.path.insert(0, os.path.abspath(os.path.join(os.getcwd(), os.pardir)))
 
 if len(sys.argv) == 1:
     n_neighbors = 20
@@ -23,7 +20,6 @@ else:
 cities = TravelingSalesman(100, 100, 30, 42).generate()
 tabu_search = TabuSearch(cities, n_neighbors, tabu_length, max_iter)
 tabu_search.solve()
-
 
 
 import matplotlib.pyplot as plt
@@ -46,7 +42,7 @@ def init():
     ax.set_xlabel('Iteration')
     ax.set_ylabel('Fitness values')
     ax.legend(loc='upper right', frameon=True, shadow=False, 
-                fancybox=False, ncol=1, framealpha=1, edgecolor='black')
+              fancybox=False, ncol=1, framealpha=1, edgecolor='black')
     return ln1, 
 
 def update(i):
@@ -57,10 +53,8 @@ def update(i):
         # plt.axhline(np.min(y[:i]), c='g', lw=1, ls='--', label='Best fitness: {}'.format(np.min(y[:i])))
     return ln1, ln2
   
-
 ani = FuncAnimation(fig, update, init_func=init, interval=30, frames=np.arange(max_iter), repeat=True) # , blit=True
-# ani = FuncAnimation(fig, update, interval=2, frames=ngen)
 plt.show()
+
 # To save the animation, use e.g.
-#
 ani.save('tabu_search.gif', fps=60)
