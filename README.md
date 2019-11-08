@@ -29,8 +29,8 @@ metaheuristics-tutorial requires:
 
 ## Problems
 
-1. **Travelling Salesman Problem** - []()
-2. **Knapsack Problem** - []()
+1. [**Travelling Salesman Problem**](https://unerue.github.io/introduction-travelling-salesman/)
+2. **Knapsack Problem**
     
 ---
 
@@ -38,6 +38,7 @@ metaheuristics-tutorial requires:
 
 <img src="simulated_annealing.gif" height="350px">
 
+1. [**Description**](https://unerue.github.io/introduction-simulated-annealing/)
 1. **Materials**
     * Paper - []()
 2. **Continuous** - []()
@@ -49,6 +50,7 @@ metaheuristics-tutorial requires:
 
 <img src="tabu_search.gif" height="350px">
 
+1. [**Description**](https://unerue.github.io/introduction-tabu-search/)
 1. **Materials**
     * Paper - []()
 2. **Discrete**
