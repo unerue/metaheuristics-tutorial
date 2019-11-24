@@ -60,4 +60,4 @@ ani = FuncAnimation(fig, update, init_func=init, interval=30, frames=np.arange(m
 plt.show()
 # To save the animation, use e.g.
 #
-ani.save('simulated_annealing.gif', fps=60)
+# ani.save('simulated_annealing.gif', fps=60)
